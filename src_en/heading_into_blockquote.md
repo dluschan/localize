@@ -1,6 +1,6 @@
 # Heading 1
 
-> ## Heading 2
+> #### Special Heading 2
 > 
 > Markdown uses email-style
 characters for blockquoting.
