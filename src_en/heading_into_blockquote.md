@@ -6,3 +6,4 @@ Just paragraph.
 >
 > Markdown uses email-style characters for blockquoting.
 > Multiple paragraphs need to be prepended individually.
+> New line.
